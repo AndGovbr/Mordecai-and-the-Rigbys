@@ -1,7 +1,7 @@
-# Mordecai-and-the-Rigbys
+# André-and-the-Rigbys
 
 <div align="center">
-  <h1 align="center">Opa, bom dia Vietnã</h1>
+  <h1 align="center">Opa, Bom Dia</h1>
   <h3 align="center">"huh. sempre me pergunto porque as pessoas não usam seu ataque mais forte no começo."</h3>
 </div>
 
